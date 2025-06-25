@@ -1,16 +1,14 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://ivqsxl.straw.page">۶ 𝐒𝐭𝐫𝐚𝐰𝐩𝐚𝐠𝐞</a>  ✶  <a href="https://ivqsxl.atabook.org">𝐀𝐭𝐚𝐛𝐨𝐨𝐤</a>  ✶  <a href="https://pronouns.cc/@ivqsxl">𝐏𝐫𝐨𝐧𝐨𝐮𝐧𝐬 ৎ</a>
 
-<!--
-**ivqsxl/ivqsxl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://files.catbox.moe/s2qlr7.gif" width="400" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  ════════════════════════════════════════
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ivqsxl-username&color=ffbc01&style=plastic&label=🍺&abreviated=true">
+</p>
