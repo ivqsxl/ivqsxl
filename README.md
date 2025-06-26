@@ -10,11 +10,5 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31exv563svc6lrelnypldxlrrewq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ivqsxl-username&color=ffbc01&style=plastic&label=🍺&abreviated=true">
 </p>
